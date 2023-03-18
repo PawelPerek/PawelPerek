@@ -69,9 +69,11 @@ Source code: https://github.com/wojdzie/refugee-help-board-frontend, https://git
 ## Personal
 
 ### NES Emulator (Rust)
-Source code: https://github.com/PawelPerek/nes
+Source code: https://github.com/PawelPerek/nes  
 This is my passion project I wanted to do for many years but didn't have enough knowledge how emulator internals look like. Although I couldn't find time to properly finish it, I hope that I will finish at least 6502 emulation stage between graduation and start of masters degree.
 
+
+### Various other from high school period that are too small to mention
 <!---
 PawelPerek/PawelPerek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
