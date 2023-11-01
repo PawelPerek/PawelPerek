@@ -34,6 +34,6 @@
 - [Refugee Help App (Dart/Flutter, NodeJS/express&mongo)](https://github.com/wojdzie/refugee-help-board-frontend)
 
 ### Personal
-- [NES Emulator (Rust)](https://github.com/PawelPerek/nes)
+- [NES Emulator (Rust)](https://github.com/PawelPerek/nes) (In progress)
 - Some smaller ones that you can find on my profile
   
